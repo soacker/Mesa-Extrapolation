@@ -17,18 +17,18 @@ This method not only retains competitive performance but also offers substantial
 The schematic diagram of our method is shown below：
 
 <div style="text-align: center;">
-  <img src="img.png" alt="Image 1" width="1000"/>
+  <img src="figures/img.png" alt="Image 1" width="1000"/>
 </div>
 
 Our approach achieves minimal memory usage and the fastest inference latency：
 
 <div style="text-align: center;">
-  <img src="img_1.png" alt="Image 2" width="800"/>
+  <img src="figures/img_1.png" alt="Image 2" width="800"/>
 </div>
 
 It extends the existing Phi-3-instruct model, which supports a sequence length of 128k, to at least 192k：
 <div style="text-align: center;">
-  <img src="img_2.png" alt="Image 3" width="800"/>
+  <img src="figures/img_2.png" alt="Image 3" width="800"/>
 </div>
 
 
